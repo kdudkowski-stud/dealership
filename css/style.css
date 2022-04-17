@@ -86,3 +86,23 @@ div.desc {
     width: 150px;
     height: 50px;
 }
+
+#container-buy {
+    padding: 15px;
+    margin-top: 5px;
+    border-style: solid;
+    border-color: #111;
+}
+
+/* TO BE CONTINUED */
+#b-car-price {
+margin-bottom: 15px;
+}
+
+#b-car-delivery {
+margin-top: 15px;
+}
+
+#b-car-order-now {
+margin-top: 15px;
+}
